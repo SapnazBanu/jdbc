@@ -39,7 +39,7 @@ public class TrainRunner {
 		        + "(17, 'Rani Kamlapati Express', 1500), "
 		        + "(18, 'Chennai Express', 1200), "
 		        + "(19, 'Satyagrah Express', 900), "
-		        + "(20, 'Himalayan Queen', 1000);";
+		        + "(20, 'Himalayan Queen', 1000)";
 
 
 		Connection connect = null;
