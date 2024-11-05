@@ -46,6 +46,7 @@ public class HospitalRunner {
 			System.out.println("Connection not established");
 			e.printStackTrace();
 		}
+
 	}
 
 }
