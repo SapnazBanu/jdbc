@@ -103,7 +103,8 @@ public class customerRunner {
 					System.out.println("Data is not saved");
 				}
 			}
-		} catch (SQLException e) {
+		} 
+		catch (SQLException e) {
 			System.out.println("Connection is not established");
 			e.printStackTrace();
 		}

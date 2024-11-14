@@ -106,8 +106,8 @@ public class passengerRunner {
 			prst.executeUpdate();
 
 			System.out.println("Data saved for all entries");
-		} catch (SQLException e) {
-			// TODO: handle exception
+		} 
+		catch (SQLException e) {
 			System.out.println("connection is not established");
 			e.printStackTrace();
 		}
