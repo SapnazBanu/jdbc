@@ -2,7 +2,7 @@ package com.xworkz.dbConnection;
 
 public enum DbConnection {
 
-	URL("jdbc:mysql://localhost:3306/signabase"), USERNAME("root"), PASSWORD("8660286768");
+	URL("jdbc:mysql://localhost:3306/signin"), USERNAME("root"), PASSWORD("8660286768");
 
 	private String value;
 
